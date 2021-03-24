@@ -13,6 +13,8 @@ Segue um exemplo de como incluir no código (sempre no início):
 **stdio.h** (standard input-output header) é um cabeçalho da biblioteca padrão do C. 
 
 Temos diversas outras como: math.h para funções matemáticas, string.h	 para manipular strings e memória, e etc.
+<br/><br/>
+
 
 ## Função Main
 A função principal é a main(). É a partir dela que nosso programa comecará a ser executado. Sempre será o ponto de partida.
@@ -23,7 +25,7 @@ int main()
 	...
 }
 ```
-<br/>
+<br/><br/>
 
 
 ## Compilação e Execução
@@ -42,7 +44,8 @@ E depois, execução:
 ./programa.out
 > Hello, World!
 ```
-<br/>
+<br/><br/>
+
 
 ## Tipos de dados
 Existem 5 tipos básicos de dados em C:
