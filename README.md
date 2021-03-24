@@ -1,4 +1,5 @@
 # C - Basics
+<br/>
 
 ## 1. Bibliotecas
 Biblioteca é um conjunto de coisas que podemos usar em nosso programa.
@@ -22,6 +23,8 @@ int main()
 	...
 }
 ```
+<br/>
+
 
 ## Compilação e Execução
 ```c
@@ -39,6 +42,7 @@ E depois, execução:
 ./programa.out
 > Hello, World!
 ```
+<br/>
 
 ## Tipos de dados
 Existem 5 tipos básicos de dados em C:
@@ -48,5 +52,5 @@ Existem 5 tipos básicos de dados em C:
 - **double** (poto fluante de precisão dupla)
 - **void** (sem valor)
 	- *declara explicitamente uma função que não retorna valor algum ou cria ponteiros genéricos.*
-
+<br/>
 
