@@ -13,7 +13,7 @@ Segue um exemplo de como incluir no código (sempre no início):
 **stdio.h** (standard input-output header) é um cabeçalho da biblioteca padrão do C. 
 
 Temos diversas outras como: math.h para funções matemáticas, string.h	 para manipular strings e memória, e etc.
-<br/><br/>
+<br/><br/><br/>
 
 
 ## Função Main
