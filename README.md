@@ -35,10 +35,12 @@ int main()
 	printf("Hello, World!"\n);
 }
 ```
+
 Após a criação do nosso programa, fazemos a compilação no terminal:
 ```bash
 gcc programa.c -o programa.out
 ```
+
 E depois, execução:
 ```bash
 ./programa.out
