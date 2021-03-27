@@ -57,5 +57,12 @@ Existem 5 tipos básicos de dados em C:
 - **double** (ponto fluante de precisão dupla)
 - **void** (sem valor)
 	- *declara explicitamente uma função que não retorna valor algum ou cria ponteiros genéricos.*
-<br/>
+<br/><br/><br/>
+
+
+## Variáveis
+Variáveis devem ter nomes únicos dentro do escopo que estão.
+```c
+
+```
 
